@@ -1,4 +1,4 @@
-# Projeto 6 – Clusterização de Municípios Brasileiros
+# Projeto 6 - Clusterização de Municípios Brasileiros
 
 Clusterização de municípios brasileiros utilizando indicadores de desmatamento (PRODES), uso do solo (MapBiomas) e classificação por biomas (IBGE).
 
