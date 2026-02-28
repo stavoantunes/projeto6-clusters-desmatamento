@@ -75,7 +75,7 @@ O relatório técnico completo encontra-se na pasta `RELATORIO/`.
 ---
 
 Autores:
-Gustavo Antunes
+Gustavo Antunes  
 Millena Lins
 
 UFU – FACOM – Ciência de Dados II
