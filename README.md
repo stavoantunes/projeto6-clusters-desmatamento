@@ -74,7 +74,7 @@ O relatório técnico completo encontra-se na pasta `RELATORIO/`.
 
 ---
 
-##Autores:  
+Autores:  
 Gustavo Antunes  
 Millena Lins
 
