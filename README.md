@@ -68,6 +68,13 @@ Projeto6_Clusters.ipynb
 
 ---
 
+## 🎥 Vídeo de demonstração
+https://github.com/user-attachments/assets/30a28de2-7678-4e86-82c7-26f66c36dfc7
+
+
+
+---
+
 ## 📄 Relatório
 
 O relatório técnico completo encontra-se na pasta `RELATORIO/`.
