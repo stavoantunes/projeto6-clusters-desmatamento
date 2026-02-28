@@ -58,10 +58,8 @@ Abrir o notebook `.ipynb` no Google Colab e fazer upload manual dos arquivos de 
 
 ### Opção 2 – Jupyter Notebook local
 
-Instalar dependências:
+Instalar dependências e executar:
 pip install -r requirements.txt
-
-Executar:
 jupyter notebook
 
 Abrir o arquivo:
