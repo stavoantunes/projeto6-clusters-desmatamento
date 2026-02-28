@@ -69,7 +69,7 @@ Projeto6_Clusters.ipynb
 ---
 
 ## 🎥 Vídeo de demonstração
-https://github.com/user-attachments/assets/30a28de2-7678-4e86-82c7-26f66c36dfc7
+https://github.com/user-attachments/assets/fe339a8b-f511-49d0-ba5e-e177b60341f8
 
 
 
