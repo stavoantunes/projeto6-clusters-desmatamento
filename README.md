@@ -12,9 +12,9 @@ Identificar padrões estruturais de desmatamento municipal no Brasil por meio de
 
 ## 📊 Bases de Dados
 
-- PRODES (INPE) – Série histórica até 2025
-- MapBiomas – Cobertura do solo até 2024
-- IBGE – Classificação municipal por bioma
+- PRODES (INPE) - Série histórica até 2025
+- MapBiomas - Cobertura do solo até 2024
+- IBGE - Classificação municipal por bioma
 
 ⚠ Os arquivos de dados não estão incluídos neste repositório devido ao tamanho (~209MB).
 
